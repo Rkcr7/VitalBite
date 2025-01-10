@@ -2,7 +2,7 @@
 
 A modern, intelligent calorie tracking application that uses Google's Gemini AI to accurately identify and calculate calories for any food item, whether through text descriptions or images.
 
-🌐 **Live App**: [VitalBite](https://vitalbite.netlify.app/)
+![Favicon](favicon.ico) **Live App**: [VitalBite](https://vitalbite.netlify.app/)
 
 ## Key Features
 
