@@ -8,7 +8,7 @@
   <p><strong>Capture your nutrition journey with AI</strong></p>
   <p>
   <a href="#-features">✨ Features</a>
-  <a href="#-roadmap">🗺️ Roadmap</a>
+  <a href="#%EF%B8%8F-roadmap">🗺️ Roadmap</a>
 </p>
   <p>
     Access it live here: <a href="https://www.vitalbite.com">VitalBite</a>
