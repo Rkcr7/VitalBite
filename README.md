@@ -6,8 +6,8 @@
   <br/>
   <p><strong>Capture your nutrition journey with AI</strong></p>
   <p>
-    <a href="#-features">✨ Features</a> |
-    <a href="#%EF%B8%8F-roadmap">🗺️ Roadmap</a> |
+    <a href="#-features-">✨ Features</a> |
+    <a href="#%EF%B8%8F-roadmap-">🗺️ Roadmap</a> |
     <a href="#%EF%B8%8F-technical-stack-">🛠️ Tech Stack</a>
   </p>
   <p style="margin-top: -12px;">
