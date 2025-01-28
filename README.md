@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌟 VitalBite - AI-Powered Wellness Companion</h1>
-  <a href="https://www.vitalbite.com">
+ <a href="https://www.vitalbite.me" target="_blank" rel="noopener noreferrer">
     <img src="logo.png" alt="VitalBite Logo" width="120" />
   </a>
   <br/>
@@ -23,9 +23,9 @@
     <a href="#-upcoming-"> 🎯 Upcoming</a> |
     <a href="#-future-vision-"> 🌟 Future Vision</a>
   </p>
-  <p>
-    Access it live here: <a href="https://www.vitalbite.com">VitalBite</a>
-  </p>
+ <p>
+    Access it live here: <a href="https://www.vitalbite.me" target="_blank" rel="noopener noreferrer">VitalBite</a>
+</p>
 </div>
 
 ## 🎯 Overview
