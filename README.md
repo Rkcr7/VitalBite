@@ -8,7 +8,8 @@
   <p>
     <a href="#-features-">✨ Features</a> |
     <a href="#%EF%B8%8F-roadmap-">🗺️ Roadmap</a> |
-    <a href="#%EF%B8%8F-technical-stack-">🛠️ Tech Stack</a>
+    <a href="#%EF%B8%8F-technical-stack-">🛠️ Tech Stack</a> |
+    <a href="#-installation-">📲 Installation</a>
   </p>
   <p style="margin-top: -12px;">
     <a href="#-intelligent-food-recognition-" style="margin-left: 20px;"> 🤖 Food Recognition</a> |
@@ -40,6 +41,32 @@ VitalBite revolutionizes nutrition tracking by combining AI with a powerful Prog
 - 🔄 **Always Available**: Complete offline functionality with automatic background sync
 - 🌍 **Culturally Aware**: Recognizes dishes from various cuisines
 - ⚡ **Lightning Fast**: Instant loading and native-like performance
+
+## 📲 Installation <a name="installation"></a>
+
+### Install VitalBite on Your Device
+
+Experience VitalBite like a native app by installing our PWA on your device:
+
+#### 📱 Android Installation
+1. Visit [VitalBite](https://www.vitalbite.me) in Chrome
+2. Tap the menu (three dots) in the upper right corner
+3. Select "Install app" or "Add to Home Screen"
+4. Tap "Install" to confirm
+5. Find VitalBite on your home screen or app drawer
+
+#### 🍎 iOS Installation
+1. Visit [VitalBite](https://www.vitalbite.me) in Safari
+2. Tap the share icon (square with arrow) at the bottom center
+3. Scroll down and select "Add to Home Screen"
+4. Tap "Add" in the upper right corner
+5. VitalBite will appear on your home screen like a native app
+
+Once installed, you'll enjoy:
+- Offline access to your nutrition data
+- Faster loading times
+- Full-screen experience without browser controls
+- Native app-like notifications (coming soon)
 
 ## 🎨 Features <a name="features"></a>
 
